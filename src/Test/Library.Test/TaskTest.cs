@@ -1,4 +1,4 @@
-/* using NUnit.Framework;
+using NUnit.Framework;
 using Library;
 using System;
 
@@ -141,4 +141,4 @@ namespace Library.Test
             Assert.IsInstanceOf(typeof(Employee), task1.SupMechanic);
         }
     }
-} */
+}
